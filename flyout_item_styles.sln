@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.32413.511
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flyout_item_styles.Android", "flyout_item_styles\flyout_item_styles.Android\flyout_item_styles.Android.csproj", "{55F14EAA-7EEA-4207-A84B-E518D98E233F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flyout_item_styles", "flyout_item_styles\flyout_item_styles\flyout_item_styles.csproj", "{34ADEE1A-8934-420A-82F2-15DAA51581F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "flyout_item_styles", "flyout_item_styles\flyout_item_styles\flyout_item_styles.csproj", "{34ADEE1A-8934-420A-82F2-15DAA51581F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
